@@ -6,5 +6,5 @@ This app is a weight converter that takes input in pounds and gives back the its
 
 ## Tech Used
 
-Javascript
-Bootstrap
+- Javascript
+- Bootstrap
